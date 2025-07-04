@@ -1,27 +1,37 @@
-### Oi! 👋 Meu nome é Gabriel
-Desenvolvedor Web apaixonado por tecnologia e arte!
+# Hi there, I'm Gabriel Ferreira! 👋
 
-- 👨🏻‍🎓 Técnico em Informática para Internet pelo IFRN
-- 🎥 Entusiasta de Fotografia e Cinema
-- 🖥 Atualmente mais focado em:
+I'm a 19-year-old brazilian developer passionate about bringing creativity and innovation to my projects. My journey into technology started with a technical course in **Informatics for the Internet**, and I'm currently expanding my knowledge through a **Bachelor's degree in Information Technology**.
 
-<div display: "inline">
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
+I thrive on turning complex problems into elegant and user-friendly solutions. I'm always eager to learn and experiment with new technologies to build amazing things.
 
-## Você também me encontra em:
+---
 
-<div display: "inline">
-  <a href="mailto:gabesferreira15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+### 💡 About me
+
+- 🎓 Studying Information Technology at UFRN.
+- 🎥 I'm a film and photography enthusiast
+- 🌱 Currently focused on deepening my skills in full-stack development.
+- 📫 You can reach me via <a href="mailto:gabesferreira15@gmail.com" target="_blank">email</a> or connect with me on <a href="https://www.linkedin.com/in/gabes-ferreira/" target="_blank">LinkedIn!</a>
+
+---
+
+### 🚀 Skills Wall
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,tailwind,python,dotnet,cs,git,vscode,visualstudio,vite,figma,prisma,mysql,postgresql,azure,ps" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-ferreira-3b0511301/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gabssferrarii/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+</p>
 
+---
+
+### 🌐 You can find me on
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabes-ferreira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gabesferreira15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
