@@ -11,7 +11,7 @@ I thrive on turning complex problems into elegant and user-friendly solutions. I
 - 🎓 Studying Information Technology at UFRN.
 - 🎥 I'm a film and photography enthusiast
 - 🌱 Currently focused on deepening my skills in full-stack development.
-- 📫 You can reach me via <a href="mailto:gabesferreira15@gmail.com" target="_blank">email</a> or connect with me on <a href="https://www.linkedin.com/in/gabes-ferreira/" target="_blank">LinkedIn!</a>
+- 📫 To see more information about me you can acess my <a href="https://gabsf-portfolio.vercel.app" target="_blank">My Portfolio!</a>
 
 ---
 
@@ -28,6 +28,9 @@ I thrive on turning complex problems into elegant and user-friendly solutions. I
 ### 🌐 You can find me on
 
 <p align="left">
+  <a href="https://gabsf-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-0A1D3E?style=for-the-badge&logo=website&logoColor=white" alt="My Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/gabes-ferreira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
